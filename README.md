@@ -1,10 +1,15 @@
-### CODTECH - Task1
+# CODTECH - Task1
 
 **Name:** AKHIL JYOTHIDAS
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT12DS4859
+
 **Domain:** Android App Development
+
 **Duration:** July 15 to August 15, 2024
+
 **Mentor:** MUZAMMIL AHMED
 
 ## Overview of the project
